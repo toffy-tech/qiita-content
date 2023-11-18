@@ -1,10 +1,10 @@
 ---
 title: Article001
 tags:
-  - "Qiita初心者"
+  - Qiita初心者
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-11-18T15:32:46+09:00'
+id: 882ab672bf566085ef72
 organization_url_name: null
 slide: false
 ignorePublish: false
