@@ -1,7 +1,7 @@
 ---
 title: Article001
 tags:
-  - ""
+  - "Qiita初心者"
 private: false
 updated_at: ""
 id: null
