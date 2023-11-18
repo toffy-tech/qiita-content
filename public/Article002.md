@@ -1,7 +1,7 @@
 ---
 title: Markdown記法
 tags:
-  - "Qiita","Markdown", "Markdown記法"
+  - "Qiita"
 private: false
 updated_at: ""
 id: null
